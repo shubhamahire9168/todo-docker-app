@@ -76,10 +76,9 @@ docker compose up -d --build
 
 ---
 ## 📸 Application Output
-
+![Todo Output 2](todo-test.png)
 ![Todo Output 1](todo-1.png)
 
-![Todo Output 2](todo-test.png)
 ## 🔄 CI/CD Flow
 
 ```text
