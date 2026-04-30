@@ -75,7 +75,11 @@ docker compose up -d --build
 * Backend → http://localhost:3500/api/tasks
 
 ---
+## 📸 Application Output
 
+![Todo Output 1](todo-1.png)
+
+![Todo Output 2](todo-test.png)
 ## 🔄 CI/CD Flow
 
 ```text
